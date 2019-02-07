@@ -1,3 +1,4 @@
+//first come first scheduling 
 #include<iostream>
 using namespace std;
 int main()
