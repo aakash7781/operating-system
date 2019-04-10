@@ -1,3 +1,4 @@
+//program for implementing banker's algorithm
 #include <iostream>
 #define MAX 20
 using namespace std;
