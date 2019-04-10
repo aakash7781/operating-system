@@ -30,7 +30,7 @@ int main()
 	{
 		cout<<"enter size of process"<<i+1<<"     "; cin>>process[i];
 	}
-	for(int i=0;i<m;i++) // for process m 
+	for(int i=0;i<m;i++) 
 	{
 		cout<<"check "<<i<<endl;		
 		for(int j=0;j<n;j++) 				
