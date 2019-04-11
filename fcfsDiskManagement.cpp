@@ -1,3 +1,4 @@
+// first come first serve Disk Management
 #include<iostream>
 using namespace std;
 main()
